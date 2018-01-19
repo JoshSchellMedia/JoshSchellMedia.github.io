@@ -1,0 +1,35 @@
+body {
+    background-color: #6a7285;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #374258;
+}
+
+.list-social-icons a {
+    color: #374258; }
+    .list-social-icons a:hover {
+      color: #f74464; }
+    .list-social-icons a .fa-lg {
+      font-size: 1.75rem; }
+
+.list-icons {
+    font-size: 3rem; }
+    .list-icons .list-inline-item i:hover {
+        color: #f74464; }
+
+.bg-primary {
+    background-color: #f74464 !important; }
+          
+    .text-primary {
+        color: #f74464 !important; }
+          
+    a {
+    color: #f74464; }
+        a:hover, a:focus, a:active {
+            color: #a52c42; }
