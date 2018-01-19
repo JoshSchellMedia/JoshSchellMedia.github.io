@@ -2,6 +2,10 @@ body {
     background-color: #6a7285;
 }
 
+.navbar-dark {
+    background-color: #374258!important;
+}
+
 h1,
 h2,
 h3,
