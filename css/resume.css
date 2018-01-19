@@ -49,7 +49,7 @@ h2 {
 .list-icons {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
-    color: #BD5D38; }
+    color: #f74464; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
@@ -106,12 +106,12 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #BD5D38 !important; }
+  background-color: #f74464 !important; }
 
 .text-primary {
-  color: #BD5D38 !important; }
+  color: #f74464 !important; }
 
 a {
-  color: #BD5D38; }
+  color: #f74464; }
   a:hover, a:focus, a:active {
-    color: #824027; }
+    color: #802132; }
