@@ -32,10 +32,6 @@ h3 {
     color: #6a7285;
 }
 
-.text-red {
-    color: #f74464 !important;
-}
-
 .red {
     font-weight: 700;
 }
@@ -56,9 +52,13 @@ h3 {
     background-color: #f74464 !important; }
           
     .text-primary {
-        color: #6a7285; }
+        color: #6a7285 !important; }
           
     a {
     color: #f74464; }
         a:hover, a:focus, a:active {
             color: #a52c42; }
+
+.text-red {
+    color: #f74464 !important;
+}
