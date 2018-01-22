@@ -32,6 +32,10 @@ h3 {
     color: #6a7285;
 }
 
+.text-red {
+    color: #f74464 !important;
+}
+
 .red {
     font-weight: 700;
 }
